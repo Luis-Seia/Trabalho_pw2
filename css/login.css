@@ -1,0 +1,42 @@
+
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../images/bg.jpg) no-repeat  ;
+}
+
+.conteiner{
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: lemonchiffon;
+}
+
+.login form{
+    font-size: 20px;
+}
+.login {
+    margin-bottom: 25px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.card{
+    margin-top: 40px;
+}
+
+.login form input[type="submit"]{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.form-pag {
+    margin-top: 20px;
+   
+}
